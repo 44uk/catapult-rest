@@ -1,0 +1,15 @@
+node_modules/
+.git/
+monitor/
+scripts/
+spammer/
+tools/
+
+.dockerignore
+Dockerfile
+
+.gitignore
+.env
+.eslintrc
+.editorconfig
+.travis.yml
